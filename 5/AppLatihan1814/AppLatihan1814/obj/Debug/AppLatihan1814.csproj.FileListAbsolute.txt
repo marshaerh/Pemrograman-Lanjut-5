@@ -1,0 +1,10 @@
+D:\1814\5\AppLatihan1814\AppLatihan1814\bin\Debug\AppLatihan1814.exe.config
+D:\1814\5\AppLatihan1814\AppLatihan1814\bin\Debug\AppLatihan1814.exe
+D:\1814\5\AppLatihan1814\AppLatihan1814\bin\Debug\AppLatihan1814.pdb
+D:\1814\5\AppLatihan1814\AppLatihan1814\obj\Debug\AppLatihan1814.csprojAssemblyReference.cache
+D:\1814\5\AppLatihan1814\AppLatihan1814\obj\Debug\AppLatihan1814.FrmMahasiswa.resources
+D:\1814\5\AppLatihan1814\AppLatihan1814\obj\Debug\AppLatihan1814.Properties.Resources.resources
+D:\1814\5\AppLatihan1814\AppLatihan1814\obj\Debug\AppLatihan1814.csproj.GenerateResource.cache
+D:\1814\5\AppLatihan1814\AppLatihan1814\obj\Debug\AppLatihan1814.csproj.CoreCompileInputs.cache
+D:\1814\5\AppLatihan1814\AppLatihan1814\obj\Debug\AppLatihan1814.exe
+D:\1814\5\AppLatihan1814\AppLatihan1814\obj\Debug\AppLatihan1814.pdb
